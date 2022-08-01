@@ -1,0 +1,29 @@
+/*
+    1. GENERAL LAYOUT
+*/
+
+.menu-header {
+    display: flex;
+}
+
+.menu-footer {
+    display: flex;
+}
+
+.legal {
+    display: flex;
+}
+
+.general-wraper {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
